@@ -1,5 +1,5 @@
 ### Hi there 👋
-- 🔭 i’m currently working on data quality project in python. hmu if interested.
+- 🔭 i’m currently working on nostr project. hmu if interested.
 
 <!--
 **seanmurphy1661/seanmurphy1661** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
