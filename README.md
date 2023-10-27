@@ -1,4 +1,4 @@
-Admin for the Nostr relay nostr.sixteensixtyone.com
+Admin for the Nostr relay nostr.sixteensixtyone.com and nostr.1661.io
 
 <!--
 **seanmurphy1661/seanmurphy1661** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
